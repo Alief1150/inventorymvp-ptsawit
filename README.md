@@ -1,10 +1,3 @@
----
-title: BPN Inventory Dashboard
-project: inventorymvp-ptsawit
-type: project-readme
-author: Alief Athallah Putra
----
-
 <h1 align="center">BPN Inventory Dashboard</h1>
 
 <p align="center">
@@ -211,11 +204,3 @@ Important:
 ## 📦 Release notes
 
 See the release notes folder if you add versioned changelogs later.
-
-## 📝 Notes
-
-- The app currently uses local/mock state for the MVP.
-- Inventory is optimized for a single warehouse.
-- Manual item input is the primary workflow.
-- CSV, Excel, and print-to-PDF exports are available from the Reports page.
-- Add screenshots or branding assets in an `assets/` folder if you want a richer README later.
