@@ -8,6 +8,14 @@ author: Alief Athallah Putra
 <h1 align="center">BPN Inventory Dashboard</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" alt="Next.js badge" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React badge" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind badge" />
+  <img src="https://img.shields.io/badge/Supabase-Ready-3ECF8E?logo=supabase&logoColor=white" alt="Supabase badge" />
+</p>
+
+<p align="center">
   Inventory management dashboard with manual item input, stock movement tracking, role switching, and export-ready reports.
 </p>
 
