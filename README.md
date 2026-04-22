@@ -8,18 +8,6 @@ author: Alief Athallah Putra
 <h1 align="center">BPN Inventory Dashboard</h1>
 
 <p align="center">
-  Modern inventory management MVP for PT Bumi Palma Nusantara.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" alt="Next.js badge" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React badge" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind badge" />
-  <img src="https://img.shields.io/badge/Supabase-Ready-3ECF8E?logo=supabase&logoColor=white" alt="Supabase badge" />
-</p>
-
-<p align="center">
   Inventory management dashboard with manual item input, stock movement tracking, role switching, and export-ready reports.
 </p>
 
@@ -29,6 +17,12 @@ BPN Inventory Dashboard is a dark-mode inventory management MVP built with Next.
 It is designed for single-warehouse internal operations and focuses on the core workflows needed to track items, monitor stock levels, and review movement history.
 
 The app currently uses local mock data and is structured to be ready for future Supabase integration.
+
+## 📸 Showcase
+
+<p align="center">
+  <img src="assets/showcase_webapp.png" alt="BPN Inventory Dashboard showcase" width="100%" />
+</p>
 
 ## ⭐ Main features
 
@@ -205,16 +199,6 @@ Important:
 - Do not commit `.env.local`
 - Keep secrets out of the repository
 - Use only public client-safe values in browser code
-
-## 🐳 Docker
-
-The app is designed to run in a containerized setup later, but the current project is primarily local-first.
-
-If you add Docker support, the usual pattern will be:
-
-```bash
-docker compose --env-file .env.local up --build
-```
 
 ## 📦 Release notes
 
